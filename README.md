@@ -48,12 +48,11 @@
 <br />
 <br />
 
-<!--
  <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="tofigamraslanov's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="tofigamraslanov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tofigamraslanov&show_icons=true&hide_border=true&theme=radical" />
 </details>
- -->
+ 
  
 [facebook]: https://www.facebook.com/profile.php?id=100018219288069
 [twitter]: https://twitter.com/devTofig
