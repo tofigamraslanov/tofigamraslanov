@@ -18,6 +18,7 @@
 [<img align="left" alt="Tofig | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tofig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tofig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Tofig | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -44,8 +45,19 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 -->
  
+<br />
+<br />
+
+<!--
+ <details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="tofigamraslanov's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+</details>
+ -->
+ 
 [facebook]: https://www.facebook.com/profile.php?id=100018219288069
 [twitter]: https://twitter.com/devTofig
 [instagram]: https://www.instagram.com/t0f1g.049
 [linkedin]: https://www.linkedin.com/in/tofigamraslanov 
+[telegram]: https://web.telegram.org/tofigamraslanov
 
