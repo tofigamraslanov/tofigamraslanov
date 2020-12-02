@@ -58,5 +58,5 @@
 [twitter]: https://twitter.com/devTofig
 [instagram]: https://www.instagram.com/t0f1g.049
 [linkedin]: https://www.linkedin.com/in/tofigamraslanov 
-[telegram]: https://web.telegram.org/tofigamraslanov
+[telegram]: https://t.me/tofigamraslanov
 
