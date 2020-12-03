@@ -1,7 +1,6 @@
 # Hi there,I'm Tofig 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devTofig?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/devTofig)
-[![Linkedin Follow](https://img.shields.io/linkedin/follow/tofigamraslanov?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tofigamraslanov )
 
 ## I'm a Junior web developer!
 
