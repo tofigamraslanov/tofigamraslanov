@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>&nbsp;&nbsp;
 
-## I'm a Junior web developer!
+## I'm a Web developer!
 
 - 🌱 I’m currently learning everything about Frontend and Backend(.Net Core) Technologoies
 <!-- - 👯 I’m looking to collaborate on JS-->
