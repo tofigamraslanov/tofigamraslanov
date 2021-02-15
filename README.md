@@ -58,7 +58,11 @@
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="tofigamraslanov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tofigamraslanov&show_icons=true&hide_border=true&theme=radical" />
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofigamraslanov&layout=compact)](https://github.com/tofigamraslanov/github-readme-stats)
+<br/>
+
+ <a href="https://github.com/tofigamraslanov/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofigamraslanov&layout=compact)](https://github.com/tofigamraslanov/github-readme-stats" />
+</a>
  
 [facebook]: https://www.facebook.com/profile.php?id=100018219288069
 [twitter]: https://twitter.com/devTofig
