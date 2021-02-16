@@ -20,11 +20,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Tofig | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Tofig | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Tofig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Tofig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Tofig | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Tofig | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Tofig | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Tofig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Tofig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Tofig | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -46,7 +46,6 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 -->
@@ -55,7 +54,7 @@
 <br/>
 <br/>
 
-![Ayna's github stats](https://github-readme-stats.vercel.app/api?username=tofigamraslanov&show_icons=true&hide_border=true&theme=radical)
+![Tofig's github stats](https://github-readme-stats.vercel.app/api?username=tofigamraslanov&show_icons=true&hide_border=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofigamraslanov&theme=radical&show_icons=true&hide_border=true)](https://github.com/tofigamraslanov/github-readme-stats)
 
