@@ -55,10 +55,16 @@
 <br/>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofigamraslanov&layout=compact)](https://github.com/tofigamraslanov/github-readme-stats" />
+![Ayna's github stats](https://github-readme-stats.vercel.app/api?username=tofigamraslanov&show_icons=true&hide_border=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofigamraslanov&theme=radical&show_icons=true)](https://github.com/tofigamraslanov/github-readme-stats)
+
+
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofigamraslanov&theme=radical&show_icons=true)](https://github.com/tofigamraslanov/github-readme-stats)" />
 <img align="left" display="block" alt="tofigamraslanov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tofigamraslanov&show_icons=true&hide_border=true&theme=radical" />
  
-
+-->
  
 [facebook]: https://www.facebook.com/profile.php?id=100018219288069
 [twitter]: https://twitter.com/devTofig
