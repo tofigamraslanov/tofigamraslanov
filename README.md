@@ -52,10 +52,10 @@
  
 <br/>
 <br/>
-<br/>
+ 
 
 ## 📊 GitHub Stats
-
+<br/>
 ![Tofig's github stats](https://github-readme-stats.vercel.app/api?username=tofigamraslanov&show_icons=true&hide_border=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofigamraslanov&theme=radical&show_icons=true&hide_border=true)](https://github.com/tofigamraslanov/github-readme-stats)
