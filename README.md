@@ -37,8 +37,8 @@
 <img align="left" alt="figma" width="26" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /> 
 <img align="left" alt="csharp" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="dotnet" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
-<img align="left" alt="mssql" width="26"  src="https://camo.githubusercontent.com/2fd20815f3b0a17768b1ee8429517c9f2e6ad5943681fbf09b8afed5fc72e306/68747470733a2f2f677265656e7769726569742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031332f30352f73716c2d7365727665722d65787072657373312e706e67" /> 
-<img align="left" alt="MySQL" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="mssql" width="30"  src="https://camo.githubusercontent.com/2fd20815f3b0a17768b1ee8429517c9f2e6ad5943681fbf09b8afed5fc72e306/68747470733a2f2f677265656e7769726569742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031332f30352f73716c2d7365727665722d65787072657373312e706e67" /> 
+<img align="left" alt="mysql" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="git" width="26"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
