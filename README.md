@@ -1,33 +1,35 @@
-# Hi there, I'm Tofig 👋
+<h1 align="center">Hi 👋, I'm Tofig Amraslanov</h1>
+<h3 align="center">I'm Software Developer from Azerbaijan</h3>
 
-<!--[![Twitter Follow](https://img.shields.io/twitter/follow/devTofig?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/devTofig)-->
-<a href="https://www.linkedin.com/in/tofigamraslanov/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/devTofig">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
-</a>&nbsp;&nbsp;
+<div align="center">
+    <a href="https://www.linkedin.com/in/tofigamraslanov/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/devTofig">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
+    </a>&nbsp;&nbsp;
+</div>
 
 ## I'm a Web developer!
 
-- 🌱 I’m currently learning everything about Frontend and Backend(.Net Core) Technologoies
-- 💬 Ask me about Anything
-- 📫 How to reach me: [Linkedin Website](https://www.linkedin.com/in/tofigamraslanov/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Playing football
-
+- 🔭 I’m currently working on [BulkyBook](https://github.com/tofigamraslanov/bulky-book-mvc)
+- 🌱 I’m currently learning **.Net**
+- 💬 Ask me about **.Net**
+- 📫 How to reach me **tofigamraslanov01@gmail.con**
 
 ### Connect with me:
 
-[<img align="left" alt="Tofig | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Tofig | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Tofig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Tofig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Tofig | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/telegram.svg" />][telegram]
-
-<br />
+<p align="left">
+    <a href="https://twitter.com/devtofig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devtofig" height="25" width="25" /></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/tofigamraslanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tofigamraslanov" height="25" width="25" /></a>&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/15395138/tofig-amraslanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15395138/tofig-amraslanov" height="25" width="25" /></a>&nbsp;&nbsp;
+    <a href="https://fb.com/100018219288069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100018219288069" height="25" width="25" /></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/t0f1g.049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t0f1g.049" height="25" width="25" /></a>&nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/tofigamraslanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tofigamraslanov" height="25" width="25" /></a>&nbsp;&nbsp;
+</p>
 
 ### 🛠 Technologies & Tools:
+
 <img align="left" alt="HTML5" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -43,19 +45,10 @@
 <img align="left" alt="git" width="26"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<!--
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
--->
  
 <br/>
- 
 
 ## 📊 GitHub Stats
-
 
 ![Tofig's github stats](https://github-readme-stats.vercel.app/api?username=tofigamraslanov&show_icons=true&hide_border=true&theme=radical)
 
@@ -67,4 +60,3 @@
 [instagram]: https://www.instagram.com/t0f1g.049
 [linkedin]: https://www.linkedin.com/in/tofigamraslanov 
 [telegram]: https://t.me/tofigamraslanov
-
