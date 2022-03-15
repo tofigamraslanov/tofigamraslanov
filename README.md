@@ -10,7 +10,7 @@
     </a>&nbsp;&nbsp;
 </div>
 
-## I'm a Web developer!
+## About me:
 
 - 🔭 I’m currently working on [BulkyBook](https://github.com/tofigamraslanov/bulky-book-mvc)
 - 🌱 I’m currently learning **.Net**
