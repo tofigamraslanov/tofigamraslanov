@@ -12,7 +12,7 @@
 
 ## About me:
 
-- 🔭 I’m currently working on [BulkyBook](https://github.com/tofigamraslanov/e-commerce-app)
+- 🔭 I’m currently working on [E Commerce App](https://github.com/tofigamraslanov/e-commerce-app)
 - 🌱 I’m currently learning **.Net**
 - 💬 Ask me about **.Net**
 - 📫 How to reach me **tofigamraslanov01@gmail.con**
