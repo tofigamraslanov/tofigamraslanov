@@ -39,9 +39,9 @@
 <img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg"/>
 <img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg"/>
 <img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg"/>
 <img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"/>
 <img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"/>
-<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg"/>
 <img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg"/>
 <img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"/>
 <img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg"/>
