@@ -12,7 +12,7 @@
 
 ## About me:
 
-- 🔭 I’m currently working on [E Commerce App](https://github.com/tofigamraslanov/e-commerce-app)
+- 🔭 I’m currently working on [Kodlama.Io Devs](https://github.com/tofigamraslanov/kodlama-io-devs)
 - 🌱 I’m currently learning **.Net**
 - 💬 Ask me about **.Net**
 - 📫 How to reach me **tofigamraslanov01@gmail.con**
@@ -20,31 +20,31 @@
 ### Connect with me:
 
 <p align="left">
-    <a href="https://twitter.com/devtofig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devtofig" height="25" width="25" /></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/tofigamraslanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tofigamraslanov" height="25" width="25" /></a>&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/15395138/tofig-amraslanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15395138/tofig-amraslanov" height="25" width="25" /></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/devtofig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devtofig" height="25" width="25" /></a>&nbsp;&nbsp;
     <a href="https://fb.com/100018219288069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100018219288069" height="25" width="25" /></a>&nbsp;&nbsp;
     <a href="https://instagram.com/t0f1g.049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t0f1g.049" height="25" width="25" /></a>&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/tofigamraslanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tofigamraslanov" height="25" width="25" /></a>&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/15395138/tofig-amraslanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15395138/tofig-amraslanov" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 
 ### 🛠 Technologies & Tools:
 
-<img align="left" alt="HTML5" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootsrap4" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="TailwindCSS" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<img align="left" alt="JavaScript" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="figma" width="26" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /> 
-<img align="left" alt="csharp" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="dotnet" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
-<img align="left" alt="mssql" width="30"  src="https://camo.githubusercontent.com/2fd20815f3b0a17768b1ee8429517c9f2e6ad5943681fbf09b8afed5fc72e306/68747470733a2f2f677265656e7769726569742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031332f30352f73716c2d7365727665722d65787072657373312e706e67" /> 
-<img align="left" alt="mysql" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="git" width="26"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="GitHub" width="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="csharp" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg"/>
+<img align="left" alt="mssql" width="35"  src="https://camo.githubusercontent.com/2fd20815f3b0a17768b1ee8429517c9f2e6ad5943681fbf09b8afed5fc72e306/68747470733a2f2f677265656e7769726569742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031332f30352f73716c2d7365727665722d65787072657373312e706e67" /> 
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"/>
+<img align="left" alt="dotnet" width="35" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg"/>
  
 <br/>
 
