@@ -8,6 +8,9 @@
     <a href="https://twitter.com/devTofig">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
     </a>&nbsp;&nbsp;
+    <!--<p> 
+        <img src="https://komarev.com/ghpvc/?username=tofigamraslanov&label=Profile%20views&color=0e75b6&style=flat" alt="tofigamraslanov" /> 
+    </p>-->
 </div>
 
 ## About me:
